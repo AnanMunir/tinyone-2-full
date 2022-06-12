@@ -1,0 +1,5 @@
+font-family: 'PT Sans', sans-serif; 700.400
+color- bold 010101
+esh- 313841
+paragraph - 898989
+yellow - fcdb00
